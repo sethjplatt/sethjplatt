@@ -11,7 +11,7 @@ And don't forget to have some fun along the way. Life is too short to take every
 
 <img src="https://user-images.githubusercontent.com/108771602/218256197-00d23da4-05f4-448d-85a7-ec67c981c08f.png" width="25" height="25"> Seattle born and raised
 
-🌍 Currently based in Barcelona 
+🌍 Currently based in Austin, TX 
 
 📧 Reach out at contact.sethjplatt@gmail.com
 
